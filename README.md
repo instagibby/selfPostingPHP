@@ -1,5 +1,7 @@
 # Team Project - Self Posting Form
 
+Original repo with commit history located on my [portfolio/homework site](https://github.com/instagibby/sldavis/tree/master/src/wdv341/groupProject/studentInfoForm)
+
 ## Instructions:
 
 1) Update the form to be a PHP self posting form.
